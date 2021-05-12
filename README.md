@@ -1,7 +1,7 @@
  
   
 
-Aprendendo as configurações
+# Aprendendo as configurações
 
 ``` bash
 $ Teste 
